@@ -12,10 +12,6 @@ html, body {
   background: url('../img/spinner.gif') 50% 50% no-repeat rgb(249,249,249);
 }
 
-.header-social-icons {
-  display: none !important;
-}
-
 .top-line {
     background-color: #100515;
     position: fixed;
